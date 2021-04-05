@@ -1,0 +1,9 @@
+\babel@toc {thai}{}
+\beamer@sectionintoc {1}{Instantaneous power}{4}{0}{1}
+\beamer@sectionintoc {2}{Average power}{16}{0}{2}
+\beamer@sectionintoc {3}{RMS}{21}{0}{3}
+\beamer@sectionintoc {4}{Complex power}{27}{0}{4}
+\beamer@sectionintoc {5}{Power factor}{30}{0}{5}
+\beamer@sectionintoc {6}{Power superposition}{46}{0}{6}
+\beamer@sectionintoc {7}{Maximum power transfer}{53}{0}{7}
+\beamer@sectionintoc {8}{Closing Dialog}{57}{0}{8}
