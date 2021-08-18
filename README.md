@@ -11,7 +11,8 @@
   * ```tar xvf ngspice-35.tar```
   * follow ```INSTALL``` file
     * ```mkdir release``` and ```cd release``` 
-    * ```../configure  --with-x --with-readline=yes --disable-debug```
+    * ```CC=c89 CFLAGS=-O2 LIBS=-lposix```
+    * ```../configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp```
     * ```make```
-      * Error! ```[signal_handler.lo] Error 1```
+      * Error! 
 
