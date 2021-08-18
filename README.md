@@ -23,4 +23,11 @@
   * QUCS
     * Aug 18th, 2021: could not quite get it properly installed 
     * ```qucs-0.0.19-OSX10.7.pkg```
+      * To remove Qucs from your system, type the following lines one by one in the Terminal application:
+```
+curl -ksO https://raw.githubusercontent.com/Qucs/qucs/master/contrib/mac/uninstall-qucs-pkg.sh
+chmod +x ./uninstall-qucs-pkg.sh
+./uninstall-qucs-pkg.sh
+rm uninstall-qucs-pkg.sh
+```
 
