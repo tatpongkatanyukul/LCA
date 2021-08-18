@@ -13,4 +13,5 @@
     * ```mkdir release``` and ```cd release``` 
     * ```../configure  --with-x --with-readline=yes --disable-debug```
     * ```make```
-    * ```sudo make install```
+      * Error! ```[signal_handler.lo] Error 1```
+
