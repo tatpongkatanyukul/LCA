@@ -17,5 +17,6 @@
       * ```make```
         * Error! 
 
-* [MacSpice](https://www.macspice.com)
+  * [MacSpice](https://www.macspice.com)
+    * Aug 18th, 2021: command line mode
 
