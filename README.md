@@ -19,4 +19,8 @@
 
   * [MacSpice](https://www.macspice.com)
     * Aug 18th, 2021: command line mode
+  
+  * QUCS
+    * Aug 18th, 2021: could not quite get it properly installed 
+    * ```qucs-0.0.19-OSX10.7.pkg```
 
