@@ -1,1 +1,1 @@
-Text read is successful!
+text is read.
