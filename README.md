@@ -31,3 +31,7 @@ chmod +x ./uninstall-qucs-pkg.sh
 rm uninstall-qucs-pkg.sh
 ```
 
+# 2021
+
+On Autolab
+  * อาจจะไม่เหมาะกับ LCA เพราะ น.ศ. ไม่ได้วาดรูปทำในกระดาษ แต่พยายามคิดกลางอากาศจากจอ!
