@@ -19,6 +19,7 @@ Computing precision
 
 ## Part 3: Phasor Analysis
 
+Transform a rectangular form to to a polar form
 ```R
 > x = 0.0201699978039+0.0401269357038i
 > x
