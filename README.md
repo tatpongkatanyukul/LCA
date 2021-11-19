@@ -1,6 +1,9 @@
 # LCA
 
+## R Project
 
+* set precision: ```options(digits=20)```
+ 
 
 ## SPICE on Mac
 
@@ -35,3 +38,4 @@ rm uninstall-qucs-pkg.sh
 
 On Autolab
   * อาจจะไม่เหมาะกับ LCA เพราะ น.ศ. ไม่ได้วาดรูปทำในกระดาษ แต่พยายามคิดกลางอากาศจากจอ!
+  
