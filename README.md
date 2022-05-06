@@ -34,6 +34,47 @@ chmod +x ./uninstall-qucs-pkg.sh
 rm uninstall-qucs-pkg.sh
 ```
 
+# TO DO
+
+  * High priority: [More AC exercises]
+  * Low priority: [Pre-LCA Programming Exercises]
+    * Miscellaneous  
+      * Unit conversions 
+      * engineering prefix
+    * Power and Energy
+    * Transducers
+      * Light: LED, LDR, photo diode, Watt - Lux
+      * Electro-mechanics: antenna, dc motor, ac motor, solenoid, piezo, proximity switch
+    * Engineering
+      * Water pump (agriculture)
+      * Pneumatics
+      * Relay
+      * Units: BTU, BTU/h, Kcal, HP
+      * Electric vehical (EV)
+      * Battery: mobile phone, EV 
+      * Solar panel
+      * Natural phenomina: tornado, tsunami, earthquake, volcano eruption, wildfire
+    * Science
+      * ATP: glycolysis, Krebs cycle, Oxidative phosphorylation, anaerobic respiration, aerobic respiration
+      * Electron energy
+      * Chemical-reaction energy
+      * Nuclear energy 
+      * energy storage in oil, natural gas, grass, wood, etc.
+    * Math
+      * Solving linear equation
+      * Complex: polar-rectangular conversion
+      * Trigonometry 
+      * Base-N number system
+    * Computer engineering
+      * Computer architecture: memory mapping
+      * Network: routing
+      * Communication: entropy, channel capacity
+      * Cryptography 
+      * Computation: mnemonic parsing
+
+
+
+
 # 2022
   * นศ ซื่อสัตย์ ไว้ใจได้ระดับหนึ่งเลย เพราะ
     * 1. Q5 Make-up Online FE (สอบ 11 เมย) เหมือน In-person FE (สอบ 5 เมย) แค่เปลี่ยนตัวเลข เป็น 1 ใน 2 ข้อที่ไม่มีใครในรอบ Make-up แตะเลย (ในรอบ in-person มีหลายคน solved ได้อยู่ 3 คนเต็ม อีกหลายคนได้ partial credits)
