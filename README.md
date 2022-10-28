@@ -59,7 +59,14 @@ rm uninstall-qucs-pkg.sh
       * Electron energy
       * Chemical-reaction energy
       * Nuclear energy 
-      * energy storage in oil, natural gas, grass, wood, etc.
+      * Energy storage in oil, natural gas, grass, wood, etc.
+      * Fluid flow: energy -> pump -> fluid flow
+        * Dynamics
+      * Heat: energy -> heating / refrigeration -> temperature vs energy vs time
+        * Thermodynamics
+      * Electromagnetism
+        * Maxwell equations
+        * Schrodinger equation
     * Math
       * Solving linear equation
       * Complex: polar-rectangular conversion
