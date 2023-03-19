@@ -1,5 +1,10 @@
 # LCA
+## To do
 
+* PySpice
+* Modeling signal reflection on impedance mismatch
+
+---
 ## R Project
 
 * set precision: ```options(digits=20)```
