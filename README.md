@@ -5,6 +5,7 @@
 * Modeling signal reflection on impedance mismatch
   * relate to concept of VSWR (may read "VisWar"): impedance matching, o.c., s.c.
   * Impedance matching: a + bj matches a - bj (conjugate)!
+  * [Matching network](https://www.youtube.com/watch?v=BijMGKbT0Wk)
 
 ---
 ## R Project
