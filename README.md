@@ -4,6 +4,7 @@
 * PySpice
 * Modeling signal reflection on impedance mismatch
   * relate to concept of VSWR (may read "VisWar"): impedance matching, o.c., s.c.
+  * Impedance matching: a + bj matches a - bj (conjugate)!
 
 ---
 ## R Project
