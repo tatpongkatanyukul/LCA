@@ -3,6 +3,7 @@
 
 * PySpice
 * Modeling signal reflection on impedance mismatch
+  * relate to concept of VSWR (may read "VisWar"): impedance matching, o.c., s.c.
 
 ---
 ## R Project
