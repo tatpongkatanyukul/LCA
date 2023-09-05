@@ -9,8 +9,8 @@ The Telegrapher's Equations
 * $\frac{d I(z,t)}{d z} + C \frac{d V(z,t)}{d t} + G V(z,t) = 0$
 
 Soltions:
-* $V(z, t) &=& V_0^+ e^{-\gamma z} e^{j \omega t} + V_0^- e^{\gamma z} e^{j \omega t}$
-* $I(z, t) &=& I_0^+ e^{-\gamma z} e^{j \omega t} + I_0^- e^{\gamma z} e^{j \omega t}$
+* $V(z, t) = V_0^+ e^{-\gamma z} e^{j \omega t} + V_0^- e^{\gamma z} e^{j \omega t}$
+* $I(z, t) = I_0^+ e^{-\gamma z} e^{j \omega t} + I_0^- e^{\gamma z} e^{j \omega t}$
 
 where
 * $\gamma^2 \equiv R G + j \omega (L G + R C) - \omega^2 L C$.
