@@ -23,6 +23,7 @@ Key to the successful simulation: recall the meaning of each parameter.
   * Source-terminal: $V(z=0, t)$
   * Load voltage: $V_L = V(z=\ell, t)$
   * Lossless condition: $\gamma = j \beta$ ($\alpha = 0$)
+  * Initial condition has to work on the time-domain formulation (measurement is on the real part), but the simulation is better computed with complex form and take the real later.
 
 ### Simulation results
 * [Video: signal propagating forward through transmission line](https://www.youtube.com/watch?v=sc0cJBv9s8Q)
