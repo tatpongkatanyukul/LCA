@@ -88,7 +88,8 @@ rm uninstall-qucs-pkg.sh
       * Cryptography 
       * Computation: mnemonic parsing
 
-
+# 2023
+  * [Deriving Eular's formula](https://github.com/tatpongkatanyukul/LCA/blob/main/LCA_TaylorSeries.ipynb)
 
 
 # 2022
